@@ -1,0 +1,1 @@
+Handmade game "T-Rex Dinosaur" in HTML, CSS and JS.
